@@ -3,72 +3,121 @@ spaceinvaders.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+map
+  rotate: false
+  xy: 1, 28
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
 touchBackground
   rotate: false
-  xy: 1, 43
+  xy: 803, 308
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 block
   rotate: false
-  xy: 203, 171
+  xy: 803, 234
   size: 72, 72
   orig: 72, 72
   offset: 0, 0
   index: -1
 touchKnob
   rotate: false
-  xy: 203, 97
+  xy: 803, 160
   size: 72, 72
   orig: 72, 72
   offset: 0, 0
   index: -1
 enemy
   rotate: false
-  xy: 1, 1
+  xy: 877, 266
   size: 75, 40
   orig: 75, 40
   offset: 0, 0
   index: -1
 enemy0
   rotate: false
-  xy: 1, 1
+  xy: 877, 266
   size: 75, 40
   orig: 75, 40
   offset: 0, 0
   index: -1
 enemy1
   rotate: false
-  xy: 277, 203
+  xy: 877, 224
   size: 75, 40
   orig: 75, 40
   offset: 0, 0
   index: -1
 enemy2
   rotate: false
-  xy: 78, 1
+  xy: 877, 182
   size: 75, 40
   orig: 75, 40
   offset: 0, 0
   index: -1
 enemy3
   rotate: false
-  xy: 277, 161
+  xy: 803, 118
   size: 75, 40
   orig: 75, 40
   offset: 0, 0
   index: -1
 player
   rotate: false
-  xy: 203, 45
+  xy: 954, 256
   size: 25, 50
   orig: 25, 50
   offset: 0, 0
   index: -1
+CharacterSinFondo
+  rotate: false
+  xy: 803, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+CharacterSinFondo
+  rotate: false
+  xy: 803, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+playerOneDown
+  rotate: false
+  xy: 837, 84
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+playerOneDown
+  rotate: false
+  xy: 837, 50
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+playerOneUp
+  rotate: false
+  xy: 954, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+playerOneUp
+  rotate: false
+  xy: 954, 188
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
 missile
   rotate: false
-  xy: 354, 218
+  xy: 1, 1
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
