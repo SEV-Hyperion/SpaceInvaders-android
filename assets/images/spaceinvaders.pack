@@ -122,3 +122,10 @@ missile
   orig: 12, 25
   offset: 0, 0
   index: -1
+fireball
+  rotate: false
+  xy: 1005, 494
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
