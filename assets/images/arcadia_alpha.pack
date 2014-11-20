@@ -1,0 +1,131 @@
+
+arcadia_alpha.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map_level1.1
+  rotate: false
+  xy: 1, 591
+  size: 3040, 1056
+  orig: 3040, 1056
+  offset: 0, 0
+  index: -1
+map
+  rotate: false
+  xy: 1, 109
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+touchBackground
+  rotate: false
+  xy: 3043, 1447
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 1, 35
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+touchKnob
+  rotate: false
+  xy: 803, 517
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 3043, 1405
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+enemy0
+  rotate: false
+  xy: 3043, 1405
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 3245, 1607
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 75, 67
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 877, 549
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+enemyOnedown
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemyOnedown
+  rotate: false
+  xy: 803, 483
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+playerOneDown
+  rotate: false
+  xy: 3043, 1371
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+playerOneDown
+  rotate: false
+  xy: 3120, 1413
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+playerOneUp
+  rotate: false
+  xy: 3245, 1573
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+playerOneUp
+  rotate: false
+  xy: 3322, 1615
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+missile
+  rotate: false
+  xy: 75, 40
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 152, 93
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
